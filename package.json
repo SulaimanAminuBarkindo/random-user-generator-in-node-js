@@ -1,0 +1,33 @@
+{
+  "name": "random-user-generator-in-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SulaimanAminuBarkindo/random-user-generator-in-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SulaimanAminuBarkindo/random-user-generator-in-node-js/issues"
+  },
+  "homepage": "https://github.com/SulaimanAminuBarkindo/random-user-generator-in-node-js#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "eslint": "^8.17.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.1",
+    "eslint-plugin-promise": "^6.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
